@@ -1,0 +1,43 @@
+# Node.js
+node_modules/
+
+# Отладочные журналы и файлы
+npm-debug.log
+yarn-error.log
+logs/
+*.log
+package-lock.json
+
+# Локальные файлы конфигурации
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Запасные копии файлов
+*.bak
+
+# Файлы конфигурации VS Code
+.vscode/
+
+# Файлы конфигурации WebStorm
+.idea/
+
+# Файлы локализации
+*.pot
+*.po
+*.mo
+
+# Кэш и временные файлы
+*.cache/
+*.tmp/
+
+# Файлы сборки и временные файлы сборки
+dist/
+build/
+*.pid
+*.lock
+
+# Файлы зависимостей для разработки
+npm-debug.log
+yarn-error.log
